@@ -30,6 +30,18 @@ Aplikasi pencatat tugas harian (_To-Do List_) berbasis **Flutter** dengan manaje
 
 ---
 
+## Deklarasi Penggunaan AI
+
+### Deklarasi Penggunaan AI
+
+- Apakah menggunakan AI? (Ya)
+- Tool AI yang digunakan: (contoh: Gemini)
+- Estimasi persentase kontribusi AI: 30%
+- Bagian kode/fitur yang dibantu AI:
+  (contoh: Penulisan code Main agar selaras dengan kode sebelumnya yang sudah ada,template README)
+- Pernyataan:
+  "Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini"
+
 ## Screenshot Aplikasi
 
 |                      Catatan Harian                      |                   Form Tambah / Edit                    |                     Riwayat Per Hari                     |
